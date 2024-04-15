@@ -51,6 +51,7 @@ DART studio screen shots for joint interpolation
 
 
 
+![di1](https://github.com/hema-dharshini5/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/147117728/547bb0d0-94c9-46af-9796-d6ddb87c0985)
 
 
 
@@ -58,9 +59,11 @@ DART studio screen shots for joint interpolation
 ### Robot movements 
 
 
+![di2](https://github.com/hema-dharshini5/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/147117728/c6797048-b54f-4c50-81f9-69b537db05e8)
 
 
 
+![di3](https://github.com/hema-dharshini5/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/147117728/d6388b3f-2b1d-420b-9de3-2ff96e2f79ea)
 
 
 
@@ -71,3 +74,4 @@ DART studio screen shots for joint interpolation
 
 
 ### Results:  
+Thus the program for linear and joint interpolation of industrial manipulator has executed successfully.
